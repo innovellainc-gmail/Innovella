@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "mybackup": {
+      "source": "H:\\My Drive",
+      "dest": "\\\\192.168.1.253\\Backups\\GoogleDrive\\sol.shacter\\MyDrive",
+      "description": "Created by Copilot assistant on user request"
+    }
+  }
+}

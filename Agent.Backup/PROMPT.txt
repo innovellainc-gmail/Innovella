@@ -1,0 +1,1 @@
+act as a senior systems developer to develop an agent that will mirror the contents of a shared google drive for a given google account to the innovella NAS backup device. prompt for the google account to use and source google shared drive and the destination folder on the NAS device. add a feature to save the source and destination information from the input prompts. 

@@ -1,0 +1,36 @@
+out/
+├── index.html              # Main single-page interactive application
+├── 404.html                # Custom enterprise 404 fallback page
+├── .htaccess               # Apache configuration with HTTPS redirect, GZIP & browser caching
+├── robots.txt              # Search engine crawler instructions
+├── sitemap.xml             # XML sitemap for search engines
+└── _next/                  # Optimized CSS stylesheets, JavaScript chunks & assets
+    └── static/
+        ├── chunks/
+        └── css/
+
+INNOVELLA, INC. - TURBIFY CPANEL UPLOAD INSTRUCTIONS
+=====================================================
+
+All static files inside this 'turbify_public_html' folder are pre-built and ready to upload directly to your Turbify Web Hosting account via cPanel File Manager:
+
+Files & Folders to Upload to your cPanel 'public_html' folder:
+-------------------------------------------------------------
+1. index.html          -> Main website homepage
+2. 404.html            -> Custom 404 error page
+3. 404/                -> 404 subdirectory index
+4. _next/              -> Contains all CSS stylesheets, fonts, and JavaScript bundles
+5. .htaccess           -> Apache rewrite rules, HTTPS redirect & caching
+6. robots.txt          -> Search engine crawling instructions
+7. sitemap.xml         -> Google / Bing search index sitemap
+
+in Windows Explorer:
+ftp://webmaster@innovella.com
+Enter password when prompted: !nn0v3ll@.2025
+
+HOW TO DEPLOY:
+1. In Turbify cPanel, open 'File Manager'.
+2. Open the 'public_html' directory (or your domain's document root).
+3. Upload all the files and folders from inside this 'turbify_public_html' directory into 'public_html'.
+4. Ensure 'Show Hidden Files' is enabled in cPanel File Manager Settings so '.htaccess' is transferred.
+

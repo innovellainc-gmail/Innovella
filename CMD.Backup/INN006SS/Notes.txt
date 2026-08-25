@@ -1,0 +1,6 @@
+https://docs.microsoft.com/en-us/sysinternals/downloads/file-and-disk-utilities
+https://social.technet.microsoft.com/Forums/office/en-US/fcac089c-f2e5-4b2d-9e4f-ec637f8ead52/robocopy-error-5?forum=winservergen
+https://social.technet.microsoft.com/wiki/contents/articles/1073.robocopy-and-a-few-examples.aspx
+https://community.spiceworks.com/topic/1739344-robocopy-error-5-0x00000005-access-denined
+
+https://www.itechtics.com/3-ways-to-prevent-command-prompt-from-closing-after-running-commands/

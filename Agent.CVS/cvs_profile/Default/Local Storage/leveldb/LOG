@@ -1,0 +1,9 @@
+2026/08/24-14:52:18.501 5540 Reusing MANIFEST C:\LocalDrive\Repos\Innovella\Python\cvs_profile\Default\Local Storage\leveldb/MANIFEST-000001
+2026/08/24-14:52:18.510 5540 Recovering log #3
+2026/08/24-14:52:18.516 5540 Reusing old log C:\LocalDrive\Repos\Innovella\Python\cvs_profile\Default\Local Storage\leveldb/000003.log 
+2026/08/24-14:54:19.438 3b4c Level-0 table #5: started
+2026/08/24-14:54:19.449 3b4c Level-0 table #5: 32756 bytes OK
+2026/08/24-14:54:19.455 3b4c Delete type=0 #3
+2026/08/24-14:59:19.437 3b4c Level-0 table #7: started
+2026/08/24-14:59:19.441 3b4c Level-0 table #7: 34686 bytes OK
+2026/08/24-14:59:19.445 3b4c Delete type=0 #4

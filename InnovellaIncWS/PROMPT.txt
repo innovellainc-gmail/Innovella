@@ -1,0 +1,19 @@
+
+act as a senior website developer and business analyst. review and analyze this website: http://www.innovella.com
+re-write this website to highlight the following verticals and clients Innovella, Inc. has successfully serviced.
+[retail] Burlington Coat Factory
+[retail] Patagonia
+[healthcare] Pacific Dental Services
+[it] Axis Technical Group
+[life sciences] Allergan
+[insurance] PICS Auditing
+[Space Security and Defense] Boeing
+[construction] Fluor
+[life sciences] Parexel
+[humanitarian relief] World Vision International
+[it] Opsware
+be sure to correct any and all spelling and grammar error. update the look and feel to a modern style and make sure all copyright dates show 2026.
+Finally, ensure the entire layout is fully responsive for all mobile devices.
+
+
+generate a production build of this project so the static assets can be uploaded directly to my Turbify Web Hosting account via the cPanel File Manager.

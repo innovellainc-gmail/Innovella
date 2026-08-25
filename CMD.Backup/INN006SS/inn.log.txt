@@ -1,0 +1,510 @@
+
+-------------------------------------------------------------------------------
+   ROBOCOPY     ::     Robust File Copy for Windows                              
+-------------------------------------------------------------------------------
+
+  Started : Monday, December 7, 2020 10:27:57 PM
+   Source : \\INN006SS\C$\Users\sshac\Downloads\
+     Dest : \\HQ1NAS01P01\Backups\INN006SS\CDRIVE\Users\sshac\Downloads\
+
+    Files : *.*
+	    
+  Options : *.* /FP /NS /TEE /S /E /DCOPY:T /COPY:DT /PURGE /MIR /Z /NP /XO /XA:SH /R:1 /W:1 
+
+------------------------------------------------------------------------------
+
+	            	\\INN006SS\C$\Users\sshac\Downloads\
+	            	\\INN006SS\C$\Users\sshac\Downloads\AntiVirus\
+	            	\\INN006SS\C$\Users\sshac\Downloads\AntiVirus\Farbar\
+	            	\\INN006SS\C$\Users\sshac\Downloads\CCleaner\
+	            	\\INN006SS\C$\Users\sshac\Downloads\Microsoft.RemoteDesktop_8wekyb3d8bbwe!App\
+	            	\\INN006SS\C$\Users\sshac\Downloads\Microsoft.RemoteDesktop_8wekyb3d8bbwe!App\TemporaryRDStorageFiles-{14E31DA2-5059-4A2D-BDED-5EBCA0798731}\
+	            	\\INN006SS\C$\Users\sshac\Downloads\Microsoft.RemoteDesktop_8wekyb3d8bbwe!App\TemporaryRDStorageFiles-{14E31DA2-5059-4A2D-BDED-5EBCA0798731}\Mussorgsky, Borodin - Rattle - Pictures at an exhibition, symphony no. 2, etc\
+	            	\\INN006SS\C$\Users\sshac\Downloads\Microsoft.RemoteDesktop_8wekyb3d8bbwe!App\TemporaryRDStorageFiles-{14E31DA2-5059-4A2D-BDED-5EBCA0798731}\Saint-Saens- Piano Concertos 1-5 Disc 1\
+	            	\\INN006SS\C$\Users\sshac\Downloads\Microsoft.RemoteDesktop_8wekyb3d8bbwe!App\TemporaryRDStorageFiles-{14E31DA2-5059-4A2D-BDED-5EBCA0798731}\Saint-Saens- Piano Concertos 1-5 Disc 2\
+	            	\\INN006SS\C$\Users\sshac\Downloads\Microsoft.RemoteDesktop_8wekyb3d8bbwe!App\TemporaryRDStorageFiles-{14E31DA2-5059-4A2D-BDED-5EBCA0798731}\VideoProc\
+	            	\\INN006SS\C$\Users\sshac\Downloads\Microsoft.RemoteDesktop_8wekyb3d8bbwe!App\TemporaryRDStorageFiles-{3B0C7024-C71B-4699-BDA1-E9CF4F5FEF8D}\
+	            	\\INN006SS\C$\Users\sshac\Downloads\Microsoft.RemoteDesktop_8wekyb3d8bbwe!App\TemporaryRDStorageFiles-{3B0C7024-C71B-4699-BDA1-E9CF4F5FEF8D}\Mussorgsky, Borodin - Rattle - Pictures at an exhibition, symphony no. 2, etc\
+	            	\\INN006SS\C$\Users\sshac\Downloads\Microsoft.RemoteDesktop_8wekyb3d8bbwe!App\TemporaryRDStorageFiles-{3B0C7024-C71B-4699-BDA1-E9CF4F5FEF8D}\Saint-Saens- Piano Concertos 1-5 Disc 1\
+	            	\\INN006SS\C$\Users\sshac\Downloads\Microsoft.RemoteDesktop_8wekyb3d8bbwe!App\TemporaryRDStorageFiles-{3B0C7024-C71B-4699-BDA1-E9CF4F5FEF8D}\Saint-Saens- Piano Concertos 1-5 Disc 2\
+	            	\\INN006SS\C$\Users\sshac\Downloads\Microsoft.RemoteDesktop_8wekyb3d8bbwe!App\TemporaryRDStorageFiles-{3B0C7024-C71B-4699-BDA1-E9CF4F5FEF8D}\VideoProc\
+	            	\\INN006SS\C$\Users\sshac\Downloads\Microsoft.RemoteDesktop_8wekyb3d8bbwe!App\TemporaryRDStorageFiles-{4CF14ECD-5740-46EA-B164-0C9D75E6E295}\
+	            	\\INN006SS\C$\Users\sshac\Downloads\Microsoft.RemoteDesktop_8wekyb3d8bbwe!App\TemporaryRDStorageFiles-{4CF14ECD-5740-46EA-B164-0C9D75E6E295}\Mussorgsky, Borodin - Rattle - Pictures at an exhibition, symphony no. 2, etc\
+	            	\\INN006SS\C$\Users\sshac\Downloads\Microsoft.RemoteDesktop_8wekyb3d8bbwe!App\TemporaryRDStorageFiles-{4CF14ECD-5740-46EA-B164-0C9D75E6E295}\Saint-Saens- Piano Concertos 1-5 Disc 1\
+	            	\\INN006SS\C$\Users\sshac\Downloads\Microsoft.RemoteDesktop_8wekyb3d8bbwe!App\TemporaryRDStorageFiles-{4CF14ECD-5740-46EA-B164-0C9D75E6E295}\Saint-Saens- Piano Concertos 1-5 Disc 2\
+	            	\\INN006SS\C$\Users\sshac\Downloads\Microsoft.RemoteDesktop_8wekyb3d8bbwe!App\TemporaryRDStorageFiles-{4CF14ECD-5740-46EA-B164-0C9D75E6E295}\VideoProc\
+	            	\\INN006SS\C$\Users\sshac\Downloads\Microsoft.RemoteDesktop_8wekyb3d8bbwe!App\TemporaryRDStorageFiles-{55A1056C-3A61-46D7-A81A-FB7358D5BD05}\
+	            	\\INN006SS\C$\Users\sshac\Downloads\Microsoft.RemoteDesktop_8wekyb3d8bbwe!App\TemporaryRDStorageFiles-{55A1056C-3A61-46D7-A81A-FB7358D5BD05}\WinPE\
+	            	\\INN006SS\C$\Users\sshac\Downloads\Microsoft.RemoteDesktop_8wekyb3d8bbwe!App\TemporaryRDStorageFiles-{71D3F001-5AD5-4357-A6B8-E507C07AB086}\
+	            	\\INN006SS\C$\Users\sshac\Downloads\Microsoft.RemoteDesktop_8wekyb3d8bbwe!App\TemporaryRDStorageFiles-{71D3F001-5AD5-4357-A6B8-E507C07AB086}\Mussorgsky, Borodin - Rattle - Pictures at an exhibition, symphony no. 2, etc\
+	            	\\INN006SS\C$\Users\sshac\Downloads\Microsoft.RemoteDesktop_8wekyb3d8bbwe!App\TemporaryRDStorageFiles-{71D3F001-5AD5-4357-A6B8-E507C07AB086}\Saint-Saens- Piano Concertos 1-5 Disc 1\
+	            	\\INN006SS\C$\Users\sshac\Downloads\Microsoft.RemoteDesktop_8wekyb3d8bbwe!App\TemporaryRDStorageFiles-{71D3F001-5AD5-4357-A6B8-E507C07AB086}\Saint-Saens- Piano Concertos 1-5 Disc 2\
+	            	\\INN006SS\C$\Users\sshac\Downloads\Microsoft.RemoteDesktop_8wekyb3d8bbwe!App\TemporaryRDStorageFiles-{71D3F001-5AD5-4357-A6B8-E507C07AB086}\VideoProc\
+	            	\\INN006SS\C$\Users\sshac\Downloads\Microsoft.RemoteDesktop_8wekyb3d8bbwe!App\TemporaryRDStorageFiles-{7AB58E27-240E-4D80-A29F-B5902D762F7F}\
+	            	\\INN006SS\C$\Users\sshac\Downloads\Microsoft.RemoteDesktop_8wekyb3d8bbwe!App\TemporaryRDStorageFiles-{7AB58E27-240E-4D80-A29F-B5902D762F7F}\Mussorgsky, Borodin - Rattle - Pictures at an exhibition, symphony no. 2, etc\
+	            	\\INN006SS\C$\Users\sshac\Downloads\Microsoft.RemoteDesktop_8wekyb3d8bbwe!App\TemporaryRDStorageFiles-{7AB58E27-240E-4D80-A29F-B5902D762F7F}\Saint-Saens- Piano Concertos 1-5 Disc 1\
+	            	\\INN006SS\C$\Users\sshac\Downloads\Microsoft.RemoteDesktop_8wekyb3d8bbwe!App\TemporaryRDStorageFiles-{7AB58E27-240E-4D80-A29F-B5902D762F7F}\Saint-Saens- Piano Concertos 1-5 Disc 2\
+	            	\\INN006SS\C$\Users\sshac\Downloads\Microsoft.RemoteDesktop_8wekyb3d8bbwe!App\TemporaryRDStorageFiles-{7AB58E27-240E-4D80-A29F-B5902D762F7F}\VideoProc\
+	            	\\INN006SS\C$\Users\sshac\Downloads\Microsoft.RemoteDesktop_8wekyb3d8bbwe!App\TemporaryRDStorageFiles-{85D48372-C3BC-49E1-8AD6-4B66236E1174}\
+	            	\\INN006SS\C$\Users\sshac\Downloads\Microsoft.RemoteDesktop_8wekyb3d8bbwe!App\TemporaryRDStorageFiles-{85D48372-C3BC-49E1-8AD6-4B66236E1174}\Mussorgsky, Borodin - Rattle - Pictures at an exhibition, symphony no. 2, etc\
+	            	\\INN006SS\C$\Users\sshac\Downloads\Microsoft.RemoteDesktop_8wekyb3d8bbwe!App\TemporaryRDStorageFiles-{85D48372-C3BC-49E1-8AD6-4B66236E1174}\Saint-Saens- Piano Concertos 1-5 Disc 1\
+	            	\\INN006SS\C$\Users\sshac\Downloads\Microsoft.RemoteDesktop_8wekyb3d8bbwe!App\TemporaryRDStorageFiles-{85D48372-C3BC-49E1-8AD6-4B66236E1174}\Saint-Saens- Piano Concertos 1-5 Disc 2\
+	            	\\INN006SS\C$\Users\sshac\Downloads\Microsoft.RemoteDesktop_8wekyb3d8bbwe!App\TemporaryRDStorageFiles-{85D48372-C3BC-49E1-8AD6-4B66236E1174}\VideoProc\
+	            	\\INN006SS\C$\Users\sshac\Downloads\Microsoft.RemoteDesktop_8wekyb3d8bbwe!App\TemporaryRDStorageFiles-{92DB12F9-4D2A-4BE9-B827-72B49AE97341}\
+	            	\\INN006SS\C$\Users\sshac\Downloads\Microsoft.RemoteDesktop_8wekyb3d8bbwe!App\TemporaryRDStorageFiles-{92DB12F9-4D2A-4BE9-B827-72B49AE97341}\Mussorgsky, Borodin - Rattle - Pictures at an exhibition, symphony no. 2, etc\
+	            	\\INN006SS\C$\Users\sshac\Downloads\Microsoft.RemoteDesktop_8wekyb3d8bbwe!App\TemporaryRDStorageFiles-{92DB12F9-4D2A-4BE9-B827-72B49AE97341}\Saint-Saens- Piano Concertos 1-5 Disc 1\
+	            	\\INN006SS\C$\Users\sshac\Downloads\Microsoft.RemoteDesktop_8wekyb3d8bbwe!App\TemporaryRDStorageFiles-{92DB12F9-4D2A-4BE9-B827-72B49AE97341}\Saint-Saens- Piano Concertos 1-5 Disc 2\
+	            	\\INN006SS\C$\Users\sshac\Downloads\Microsoft.RemoteDesktop_8wekyb3d8bbwe!App\TemporaryRDStorageFiles-{92DB12F9-4D2A-4BE9-B827-72B49AE97341}\VideoProc\
+	            	\\INN006SS\C$\Users\sshac\Downloads\Microsoft.RemoteDesktop_8wekyb3d8bbwe!App\TemporaryRDStorageFiles-{9A2A41DD-110C-4B7F-8AE3-8E45E1E0C200}\
+	            	\\INN006SS\C$\Users\sshac\Downloads\Microsoft.RemoteDesktop_8wekyb3d8bbwe!App\TemporaryRDStorageFiles-{9A2A41DD-110C-4B7F-8AE3-8E45E1E0C200}\Mussorgsky, Borodin - Rattle - Pictures at an exhibition, symphony no. 2, etc\
+	            	\\INN006SS\C$\Users\sshac\Downloads\Microsoft.RemoteDesktop_8wekyb3d8bbwe!App\TemporaryRDStorageFiles-{9A2A41DD-110C-4B7F-8AE3-8E45E1E0C200}\Saint-Saens- Piano Concertos 1-5 Disc 1\
+	            	\\INN006SS\C$\Users\sshac\Downloads\Microsoft.RemoteDesktop_8wekyb3d8bbwe!App\TemporaryRDStorageFiles-{9A2A41DD-110C-4B7F-8AE3-8E45E1E0C200}\Saint-Saens- Piano Concertos 1-5 Disc 2\
+	            	\\INN006SS\C$\Users\sshac\Downloads\Microsoft.RemoteDesktop_8wekyb3d8bbwe!App\TemporaryRDStorageFiles-{9A2A41DD-110C-4B7F-8AE3-8E45E1E0C200}\VideoProc\
+	            	\\INN006SS\C$\Users\sshac\Downloads\Microsoft.RemoteDesktop_8wekyb3d8bbwe!App\TemporaryRDStorageFiles-{AFD3231A-AD55-41AC-89E4-D7456C1EA9D1}\
+	            	\\INN006SS\C$\Users\sshac\Downloads\Microsoft.RemoteDesktop_8wekyb3d8bbwe!App\TemporaryRDStorageFiles-{AFD3231A-AD55-41AC-89E4-D7456C1EA9D1}\Mussorgsky, Borodin - Rattle - Pictures at an exhibition, symphony no. 2, etc\
+	            	\\INN006SS\C$\Users\sshac\Downloads\Microsoft.RemoteDesktop_8wekyb3d8bbwe!App\TemporaryRDStorageFiles-{AFD3231A-AD55-41AC-89E4-D7456C1EA9D1}\Saint-Saens- Piano Concertos 1-5 Disc 1\
+	            	\\INN006SS\C$\Users\sshac\Downloads\Microsoft.RemoteDesktop_8wekyb3d8bbwe!App\TemporaryRDStorageFiles-{AFD3231A-AD55-41AC-89E4-D7456C1EA9D1}\Saint-Saens- Piano Concertos 1-5 Disc 2\
+	            	\\INN006SS\C$\Users\sshac\Downloads\Microsoft.RemoteDesktop_8wekyb3d8bbwe!App\TemporaryRDStorageFiles-{AFD3231A-AD55-41AC-89E4-D7456C1EA9D1}\VideoProc\
+	            	\\INN006SS\C$\Users\sshac\Downloads\Microsoft.RemoteDesktop_8wekyb3d8bbwe!App\TemporaryRDStorageFiles-{C1C1D0E6-C23A-4549-8A49-24CC39631A7B}\
+	            	\\INN006SS\C$\Users\sshac\Downloads\Microsoft.RemoteDesktop_8wekyb3d8bbwe!App\TemporaryRDStorageFiles-{C1C1D0E6-C23A-4549-8A49-24CC39631A7B}\Mussorgsky, Borodin - Rattle - Pictures at an exhibition, symphony no. 2, etc\
+	            	\\INN006SS\C$\Users\sshac\Downloads\Microsoft.RemoteDesktop_8wekyb3d8bbwe!App\TemporaryRDStorageFiles-{C1C1D0E6-C23A-4549-8A49-24CC39631A7B}\Saint-Saens- Piano Concertos 1-5 Disc 1\
+	            	\\INN006SS\C$\Users\sshac\Downloads\Microsoft.RemoteDesktop_8wekyb3d8bbwe!App\TemporaryRDStorageFiles-{C1C1D0E6-C23A-4549-8A49-24CC39631A7B}\Saint-Saens- Piano Concertos 1-5 Disc 2\
+	            	\\INN006SS\C$\Users\sshac\Downloads\Microsoft.RemoteDesktop_8wekyb3d8bbwe!App\TemporaryRDStorageFiles-{C1C1D0E6-C23A-4549-8A49-24CC39631A7B}\VideoProc\
+	            	\\INN006SS\C$\Users\sshac\Downloads\Microsoft.RemoteDesktop_8wekyb3d8bbwe!App\TemporaryRDStorageFiles-{D60EF231-5F74-473F-BB0A-F2BE9F0D181F}\
+	            	\\INN006SS\C$\Users\sshac\Downloads\Microsoft.RemoteDesktop_8wekyb3d8bbwe!App\TemporaryRDStorageFiles-{D60EF231-5F74-473F-BB0A-F2BE9F0D181F}\Mussorgsky, Borodin - Rattle - Pictures at an exhibition, symphony no. 2, etc\
+	            	\\INN006SS\C$\Users\sshac\Downloads\Microsoft.RemoteDesktop_8wekyb3d8bbwe!App\TemporaryRDStorageFiles-{D60EF231-5F74-473F-BB0A-F2BE9F0D181F}\Saint-Saens- Piano Concertos 1-5 Disc 1\
+	            	\\INN006SS\C$\Users\sshac\Downloads\Microsoft.RemoteDesktop_8wekyb3d8bbwe!App\TemporaryRDStorageFiles-{D60EF231-5F74-473F-BB0A-F2BE9F0D181F}\Saint-Saens- Piano Concertos 1-5 Disc 2\
+	            	\\INN006SS\C$\Users\sshac\Downloads\Microsoft.RemoteDesktop_8wekyb3d8bbwe!App\TemporaryRDStorageFiles-{D60EF231-5F74-473F-BB0A-F2BE9F0D181F}\VideoProc\
+	            	\\INN006SS\C$\Users\sshac\Downloads\Microsoft.RemoteDesktop_8wekyb3d8bbwe!App\TemporaryRDStorageFiles-{D8F15F18-36E8-4203-9816-F5A0B61ABD94}\
+	            	\\INN006SS\C$\Users\sshac\Downloads\Microsoft.RemoteDesktop_8wekyb3d8bbwe!App\TemporaryRDStorageFiles-{D8F15F18-36E8-4203-9816-F5A0B61ABD94}\Mussorgsky, Borodin - Rattle - Pictures at an exhibition, symphony no. 2, etc\
+	            	\\INN006SS\C$\Users\sshac\Downloads\Microsoft.RemoteDesktop_8wekyb3d8bbwe!App\TemporaryRDStorageFiles-{D8F15F18-36E8-4203-9816-F5A0B61ABD94}\Saint-Saens- Piano Concertos 1-5 Disc 1\
+	            	\\INN006SS\C$\Users\sshac\Downloads\Microsoft.RemoteDesktop_8wekyb3d8bbwe!App\TemporaryRDStorageFiles-{D8F15F18-36E8-4203-9816-F5A0B61ABD94}\Saint-Saens- Piano Concertos 1-5 Disc 2\
+	            	\\INN006SS\C$\Users\sshac\Downloads\Microsoft.RemoteDesktop_8wekyb3d8bbwe!App\TemporaryRDStorageFiles-{D8F15F18-36E8-4203-9816-F5A0B61ABD94}\VideoProc\
+	            	\\INN006SS\C$\Users\sshac\Downloads\Microsoft.RemoteDesktop_8wekyb3d8bbwe!App\TemporaryRDStorageFiles-{DC8FCCFA-0DEA-4112-89FB-6F79398969D9}\
+	            	\\INN006SS\C$\Users\sshac\Downloads\Microsoft.RemoteDesktop_8wekyb3d8bbwe!App\TemporaryRDStorageFiles-{DC8FCCFA-0DEA-4112-89FB-6F79398969D9}\Mussorgsky, Borodin - Rattle - Pictures at an exhibition, symphony no. 2, etc\
+	            	\\INN006SS\C$\Users\sshac\Downloads\Microsoft.RemoteDesktop_8wekyb3d8bbwe!App\TemporaryRDStorageFiles-{DC8FCCFA-0DEA-4112-89FB-6F79398969D9}\Saint-Saens- Piano Concertos 1-5 Disc 1\
+	            	\\INN006SS\C$\Users\sshac\Downloads\Microsoft.RemoteDesktop_8wekyb3d8bbwe!App\TemporaryRDStorageFiles-{DC8FCCFA-0DEA-4112-89FB-6F79398969D9}\Saint-Saens- Piano Concertos 1-5 Disc 2\
+	            	\\INN006SS\C$\Users\sshac\Downloads\Microsoft.RemoteDesktop_8wekyb3d8bbwe!App\TemporaryRDStorageFiles-{DC8FCCFA-0DEA-4112-89FB-6F79398969D9}\VideoProc\
+	            	\\INN006SS\C$\Users\sshac\Downloads\Microsoft.RemoteDesktop_8wekyb3d8bbwe!App\TemporaryRDStorageFiles-{E15D12D4-847E-4322-B6D6-ABD73D37B19D}\
+	            	\\INN006SS\C$\Users\sshac\Downloads\Microsoft.RemoteDesktop_8wekyb3d8bbwe!App\TemporaryRDStorageFiles-{E15D12D4-847E-4322-B6D6-ABD73D37B19D}\Mussorgsky, Borodin - Rattle - Pictures at an exhibition, symphony no. 2, etc\
+	            	\\INN006SS\C$\Users\sshac\Downloads\Microsoft.RemoteDesktop_8wekyb3d8bbwe!App\TemporaryRDStorageFiles-{E15D12D4-847E-4322-B6D6-ABD73D37B19D}\Saint-Saens- Piano Concertos 1-5 Disc 1\
+	            	\\INN006SS\C$\Users\sshac\Downloads\Microsoft.RemoteDesktop_8wekyb3d8bbwe!App\TemporaryRDStorageFiles-{E15D12D4-847E-4322-B6D6-ABD73D37B19D}\Saint-Saens- Piano Concertos 1-5 Disc 2\
+	            	\\INN006SS\C$\Users\sshac\Downloads\Microsoft.RemoteDesktop_8wekyb3d8bbwe!App\TemporaryRDStorageFiles-{E15D12D4-847E-4322-B6D6-ABD73D37B19D}\VideoProc\
+	            	\\INN006SS\C$\Users\sshac\Downloads\Microsoft.RemoteDesktop_8wekyb3d8bbwe!App\TemporaryRDStorageFiles-{E22A5BF8-0B7E-48FE-ADF9-F984B342A40E}\
+	            	\\INN006SS\C$\Users\sshac\Downloads\Microsoft.RemoteDesktop_8wekyb3d8bbwe!App\TemporaryRDStorageFiles-{E22A5BF8-0B7E-48FE-ADF9-F984B342A40E}\Mussorgsky, Borodin - Rattle - Pictures at an exhibition, symphony no. 2, etc\
+	            	\\INN006SS\C$\Users\sshac\Downloads\Microsoft.RemoteDesktop_8wekyb3d8bbwe!App\TemporaryRDStorageFiles-{E22A5BF8-0B7E-48FE-ADF9-F984B342A40E}\Saint-Saens- Piano Concertos 1-5 Disc 1\
+	            	\\INN006SS\C$\Users\sshac\Downloads\Microsoft.RemoteDesktop_8wekyb3d8bbwe!App\TemporaryRDStorageFiles-{E22A5BF8-0B7E-48FE-ADF9-F984B342A40E}\Saint-Saens- Piano Concertos 1-5 Disc 2\
+	            	\\INN006SS\C$\Users\sshac\Downloads\Microsoft.RemoteDesktop_8wekyb3d8bbwe!App\TemporaryRDStorageFiles-{E22A5BF8-0B7E-48FE-ADF9-F984B342A40E}\VideoProc\
+	            	\\INN006SS\C$\Users\sshac\Downloads\Microsoft.RemoteDesktop_8wekyb3d8bbwe!App\TemporaryRDStorageFiles-{EB65226B-5BBB-4A1D-8808-DFA44758D1ED}\
+	            	\\INN006SS\C$\Users\sshac\Downloads\Microsoft.RemoteDesktop_8wekyb3d8bbwe!App\TemporaryRDStorageFiles-{EB65226B-5BBB-4A1D-8808-DFA44758D1ED}\Mussorgsky, Borodin - Rattle - Pictures at an exhibition, symphony no. 2, etc\
+	            	\\INN006SS\C$\Users\sshac\Downloads\Microsoft.RemoteDesktop_8wekyb3d8bbwe!App\TemporaryRDStorageFiles-{EB65226B-5BBB-4A1D-8808-DFA44758D1ED}\Saint-Saens- Piano Concertos 1-5 Disc 1\
+	            	\\INN006SS\C$\Users\sshac\Downloads\Microsoft.RemoteDesktop_8wekyb3d8bbwe!App\TemporaryRDStorageFiles-{EB65226B-5BBB-4A1D-8808-DFA44758D1ED}\Saint-Saens- Piano Concertos 1-5 Disc 2\
+	            	\\INN006SS\C$\Users\sshac\Downloads\Microsoft.RemoteDesktop_8wekyb3d8bbwe!App\TemporaryRDStorageFiles-{EB65226B-5BBB-4A1D-8808-DFA44758D1ED}\VideoProc\
+	            	\\INN006SS\C$\Users\sshac\Downloads\Microsoft.RemoteDesktop_8wekyb3d8bbwe!App\TemporaryRDStorageFiles-{FE392288-5195-4A73-9460-C16F5952E397}\
+	            	\\INN006SS\C$\Users\sshac\Downloads\Microsoft.RemoteDesktop_8wekyb3d8bbwe!App\TemporaryRDStorageFiles-{FE392288-5195-4A73-9460-C16F5952E397}\Mussorgsky, Borodin - Rattle - Pictures at an exhibition, symphony no. 2, etc\
+	            	\\INN006SS\C$\Users\sshac\Downloads\Microsoft.RemoteDesktop_8wekyb3d8bbwe!App\TemporaryRDStorageFiles-{FE392288-5195-4A73-9460-C16F5952E397}\Saint-Saens- Piano Concertos 1-5 Disc 1\
+	            	\\INN006SS\C$\Users\sshac\Downloads\Microsoft.RemoteDesktop_8wekyb3d8bbwe!App\TemporaryRDStorageFiles-{FE392288-5195-4A73-9460-C16F5952E397}\Saint-Saens- Piano Concertos 1-5 Disc 2\
+	            	\\INN006SS\C$\Users\sshac\Downloads\Microsoft.RemoteDesktop_8wekyb3d8bbwe!App\TemporaryRDStorageFiles-{FE392288-5195-4A73-9460-C16F5952E397}\VideoProc\
+
+------------------------------------------------------------------------------
+
+               Total    Copied   Skipped  Mismatch    FAILED    Extras
+    Dirs :        92         0        92         0         0         0
+   Files :       852         0       852         0         0         0
+   Bytes :  10.934 g         0  10.934 g         0         0         0
+   Times :   0:00:02   0:00:00                       0:00:00   0:00:02
+   Ended : Monday, December 7, 2020 10:28:00 PM
+
+
+-------------------------------------------------------------------------------
+   ROBOCOPY     ::     Robust File Copy for Windows                              
+-------------------------------------------------------------------------------
+
+  Started : Monday, December 7, 2020 10:28:00 PM
+   Source : \\INN006SS\D$\Downloads\
+     Dest : \\HQ1NAS01P01\Backups\INN006SS\DDRIVE\Downloads\
+
+    Files : *.*
+	    
+  Options : *.* /FP /NS /TEE /S /E /DCOPY:T /COPY:DT /PURGE /MIR /Z /NP /R:1 /W:1 
+
+------------------------------------------------------------------------------
+
+	            	\\INN006SS\D$\Downloads\
+	            	\\INN006SS\D$\Downloads\Acronis\
+	            	\\INN006SS\D$\Downloads\Amazon\
+	            	\\INN006SS\D$\Downloads\AV\
+	            	\\INN006SS\D$\Downloads\BofA\
+	            	\\INN006SS\D$\Downloads\HDD\
+	            	\\INN006SS\D$\Downloads\IG_Stories_files\
+	            	\\INN006SS\D$\Downloads\INN006SS\
+	            	\\INN006SS\D$\Downloads\INN006SS\Qualcomm\
+	            	\\INN006SS\D$\Downloads\Instagram_files\
+	            	\\INN006SS\D$\Downloads\lek.02_files\
+	            	\\INN006SS\D$\Downloads\lek.03_files\
+	            	\\INN006SS\D$\Downloads\MacriumReflect7\
+	            	\\INN006SS\D$\Downloads\MacriumReflect7\Macrium\
+	            	\\INN006SS\D$\Downloads\PDS\
+	            	\\INN006SS\D$\Downloads\RingCentral\
+	            	\\INN006SS\D$\Downloads\SuchAVoice\
+	            	\\INN006SS\D$\Downloads\Yahoo\
+	            	\\INN006SS\D$\Downloads\Yahoo\Export\
+	            	\\INN006SS\D$\Downloads\Yahoo\Export\direct\
+	            	\\INN006SS\D$\Downloads\Yahoo\Export\direct\201609\
+	            	\\INN006SS\D$\Downloads\Yahoo\Export\direct\201610\
+	            	\\INN006SS\D$\Downloads\Yahoo\Export\direct\201701\
+	            	\\INN006SS\D$\Downloads\Yahoo\Export\direct\201702\
+	            	\\INN006SS\D$\Downloads\Yahoo\Export\direct\201704\
+	            	\\INN006SS\D$\Downloads\Yahoo\Export\direct\201705\
+	            	\\INN006SS\D$\Downloads\Yahoo\Export\direct\201802\
+	            	\\INN006SS\D$\Downloads\Yahoo\Export\direct\201803\
+	            	\\INN006SS\D$\Downloads\Yahoo\Export\direct\201804\
+	            	\\INN006SS\D$\Downloads\Yahoo\Export\direct\201806\
+	            	\\INN006SS\D$\Downloads\Yahoo\Export\direct\201807\
+	            	\\INN006SS\D$\Downloads\Yahoo\Export\photos\
+	            	\\INN006SS\D$\Downloads\Yahoo\Export\photos\201404\
+	            	\\INN006SS\D$\Downloads\Yahoo\Export\photos\201405\
+	            	\\INN006SS\D$\Downloads\Yahoo\Export\photos\201406\
+	            	\\INN006SS\D$\Downloads\Yahoo\Export\photos\201407\
+	            	\\INN006SS\D$\Downloads\Yahoo\Export\photos\201408\
+	            	\\INN006SS\D$\Downloads\Yahoo\Export\photos\201409\
+	            	\\INN006SS\D$\Downloads\Yahoo\Export\photos\201410\
+	            	\\INN006SS\D$\Downloads\Yahoo\Export\photos\201411\
+	            	\\INN006SS\D$\Downloads\Yahoo\Export\photos\201412\
+	            	\\INN006SS\D$\Downloads\Yahoo\Export\photos\201501\
+	            	\\INN006SS\D$\Downloads\Yahoo\Export\photos\201503\
+	            	\\INN006SS\D$\Downloads\Yahoo\Export\photos\201504\
+	            	\\INN006SS\D$\Downloads\Yahoo\Export\photos\201505\
+	            	\\INN006SS\D$\Downloads\Yahoo\Export\photos\201507\
+	            	\\INN006SS\D$\Downloads\Yahoo\Export\photos\201508\
+	            	\\INN006SS\D$\Downloads\Yahoo\Export\photos\201509\
+	            	\\INN006SS\D$\Downloads\Yahoo\Export\photos\201510\
+	            	\\INN006SS\D$\Downloads\Yahoo\Export\photos\201511\
+	            	\\INN006SS\D$\Downloads\Yahoo\Export\photos\201512\
+	            	\\INN006SS\D$\Downloads\Yahoo\Export\photos\201601\
+	            	\\INN006SS\D$\Downloads\Yahoo\Export\photos\201602\
+	            	\\INN006SS\D$\Downloads\Yahoo\Export\photos\201603\
+	            	\\INN006SS\D$\Downloads\Yahoo\Export\photos\201604\
+	            	\\INN006SS\D$\Downloads\Yahoo\Export\photos\201605\
+	            	\\INN006SS\D$\Downloads\Yahoo\Export\photos\201606\
+	            	\\INN006SS\D$\Downloads\Yahoo\Export\photos\201608\
+	            	\\INN006SS\D$\Downloads\Yahoo\Export\photos\201609\
+	            	\\INN006SS\D$\Downloads\Yahoo\Export\photos\201610\
+	            	\\INN006SS\D$\Downloads\Yahoo\Export\photos\201611\
+	            	\\INN006SS\D$\Downloads\Yahoo\Export\photos\201612\
+	            	\\INN006SS\D$\Downloads\Yahoo\Export\photos\201701\
+	            	\\INN006SS\D$\Downloads\Yahoo\Export\photos\201702\
+	            	\\INN006SS\D$\Downloads\Yahoo\Export\photos\201703\
+	            	\\INN006SS\D$\Downloads\Yahoo\Export\photos\201704\
+	            	\\INN006SS\D$\Downloads\Yahoo\Export\photos\201705\
+	            	\\INN006SS\D$\Downloads\Yahoo\Export\photos\201706\
+	            	\\INN006SS\D$\Downloads\Yahoo\Export\photos\201707\
+	            	\\INN006SS\D$\Downloads\Yahoo\Export\photos\201708\
+	            	\\INN006SS\D$\Downloads\Yahoo\Export\photos\201711\
+	            	\\INN006SS\D$\Downloads\Yahoo\Export\photos\201801\
+	            	\\INN006SS\D$\Downloads\Yahoo\Export\photos\201802\
+	            	\\INN006SS\D$\Downloads\Yahoo\Export\photos\201803\
+	            	\\INN006SS\D$\Downloads\Yahoo\Export\photos\201806\
+	            	\\INN006SS\D$\Downloads\Yahoo\Export\photos\201807\
+	            	\\INN006SS\D$\Downloads\Yahoo\Export\photos\201809\
+	            	\\INN006SS\D$\Downloads\Yahoo\Export\photos\201810\
+	            	\\INN006SS\D$\Downloads\Yahoo\Export\photos\201811\
+	            	\\INN006SS\D$\Downloads\Yahoo\Export\photos\201901\
+	            	\\INN006SS\D$\Downloads\Yahoo\Export\photos\201903\
+	            	\\INN006SS\D$\Downloads\Yahoo\Export\photos\201908\
+	            	\\INN006SS\D$\Downloads\Yahoo\Export\photos\201909\
+	            	\\INN006SS\D$\Downloads\Yahoo\Export\videos\
+	            	\\INN006SS\D$\Downloads\Yahoo\Export\videos\201502\
+	            	\\INN006SS\D$\Downloads\Yahoo\Export\videos\201504\
+	            	\\INN006SS\D$\Downloads\Yahoo\Export\videos\201507\
+	            	\\INN006SS\D$\Downloads\Yahoo\Export\videos\201508\
+	            	\\INN006SS\D$\Downloads\Yahoo\Export\videos\201612\
+	            	\\INN006SS\D$\Downloads\Yahoo\Export\videos\201701\
+	            	\\INN006SS\D$\Downloads\Yahoo\Export\videos\201702\
+	            	\\INN006SS\D$\Downloads\Yahoo\Export\videos\201703\
+	            	\\INN006SS\D$\Downloads\Yahoo\Export\videos\201704\
+	            	\\INN006SS\D$\Downloads\Yahoo\Export\videos\201807\
+	            	\\INN006SS\D$\Downloads\Yahoo\temp\
+	            	\\INN006SS\D$\Downloads\Yahoo\temp\Activity Data\
+	            	\\INN006SS\D$\Downloads\Yahoo\temp\Activity Data\User Data 1\
+	            	\\INN006SS\D$\Downloads\Yahoo\temp\Consumer Marketing\
+	            	\\INN006SS\D$\Downloads\Yahoo\temp\Consumer Marketing\User Data 1\
+	            	\\INN006SS\D$\Downloads\Yahoo\temp\Engagement data\
+	            	\\INN006SS\D$\Downloads\Yahoo\temp\Engagement data\User Data 1\
+	            	\\INN006SS\D$\Downloads\Yahoo\temp\Geo\
+	            	\\INN006SS\D$\Downloads\Yahoo\temp\Geo\User Data 1\
+	            	\\INN006SS\D$\Downloads\Yahoo\temp\Geo\User Data 2\
+	            	\\INN006SS\D$\Downloads\Yahoo\temp\GUCE Service\
+	            	\\INN006SS\D$\Downloads\Yahoo\temp\GUCE Service\User Data 1\
+	            	\\INN006SS\D$\Downloads\Yahoo\temp\HKEC\
+	            	\\INN006SS\D$\Downloads\Yahoo\temp\HKEC\User Data 1\
+	            	\\INN006SS\D$\Downloads\Yahoo\temp\LUUP\
+	            	\\INN006SS\D$\Downloads\Yahoo\temp\LUUP\User Data 1\
+	            	\\INN006SS\D$\Downloads\Yahoo\temp\Personalized Advertising\
+	            	\\INN006SS\D$\Downloads\Yahoo\temp\Personalized Advertising\User Data 1\
+	            	\\INN006SS\D$\Downloads\Yahoo\temp\Personalized Advertising _ Advertising Activity (Part 1 of 4)\
+	            	\\INN006SS\D$\Downloads\Yahoo\temp\Personalized Advertising _ Advertising Activity (Part 1 of 4)\User Data 1\
+	            	\\INN006SS\D$\Downloads\Yahoo\temp\Personalized Advertising _ Advertising Activity (Part 4 of 4)\
+	            	\\INN006SS\D$\Downloads\Yahoo\temp\Personalized Advertising _ Advertising Activity (Part 4 of 4)\User Data 1\
+	            	\\INN006SS\D$\Downloads\Yahoo\temp\Personalized Advertising _ Conversion Activity\
+	            	\\INN006SS\D$\Downloads\Yahoo\temp\Personalized Advertising _ Conversion Activity\User Data 1\
+	            	\\INN006SS\D$\Downloads\Yahoo\temp\Rivendell\
+	            	\\INN006SS\D$\Downloads\Yahoo\temp\Rivendell\User Data 1\
+	            	\\INN006SS\D$\Downloads\Yahoo\temp\Subscriptions & Account Activity\
+	            	\\INN006SS\D$\Downloads\Yahoo\temp\Subscriptions & Account Activity\User Data 1\
+	            	\\INN006SS\D$\Downloads\Yahoo\temp\Yahoo Loyalty Reward Program\
+	            	\\INN006SS\D$\Downloads\Yahoo\temp\Yahoo Loyalty Reward Program\User Data 1\
+	            	\\INN006SS\D$\Downloads\Yahoo\temp\Yahoo Mail\
+	            	\\INN006SS\D$\Downloads\Yahoo\temp\Yahoo Mail\User Data 1\
+	            	\\INN006SS\D$\Downloads\Yahoo\temp\Your Account\
+	            	\\INN006SS\D$\Downloads\Yahoo\temp\Your Account\User Data 1\
+
+------------------------------------------------------------------------------
+
+               Total    Copied   Skipped  Mismatch    FAILED    Extras
+    Dirs :       128         0       128         0         0         0
+   Files :       656         0       656         0         0         0
+   Bytes :   3.199 g         0   3.199 g         0         0         0
+   Times :   0:00:02   0:00:00                       0:00:00   0:00:02
+   Ended : Monday, December 7, 2020 10:28:02 PM
+
+
+-------------------------------------------------------------------------------
+   ROBOCOPY     ::     Robust File Copy for Windows                              
+-------------------------------------------------------------------------------
+
+  Started : Monday, December 7, 2020 10:28:02 PM
+   Source : \\INN006SS\D$\Innovella\
+     Dest : \\HQ1NAS01P01\Backups\INN006SS\DDRIVE\Innovella\
+
+    Files : *.*
+	    
+ Exc Dirs : \\INN006SS\D$\sshac\Music
+	    \\INN006SS\D$\sshac\OneDrive
+	    \\INN006SS\D$\sshac\Pictures
+	    \\INN006SS\D$\sshac\Videos
+	    
+  Options : *.* /FP /NS /TEE /S /E /DCOPY:T /COPY:DT /PURGE /MIR /Z /NP /R:1 /W:1 
+
+------------------------------------------------------------------------------
+
+	            	\\INN006SS\D$\Innovella\
+	            	\\INN006SS\D$\Innovella\30-Clients\
+	            	\\INN006SS\D$\Innovella\30-Clients\ATG-PDS\
+	            	\\INN006SS\D$\Innovella\30-Clients\ATG-PDS\02-Billing\
+	            	\\INN006SS\D$\Innovella\30-Clients\ATG-PDS\02-Billing\2020\
+	            	\\INN006SS\D$\Innovella\sys\
+	            	\\INN006SS\D$\Innovella\sys\Tools\
+	            	\\INN006SS\D$\Innovella\sys\Tools\RDP\
+	            	\\INN006SS\D$\Innovella\sys\Tools\RDP\rdpwrap-master\
+	            	\\INN006SS\D$\Innovella\sys\Tools\RDP\rdpwrap-master\bin\
+	            	\\INN006SS\D$\Innovella\sys\Tools\RDP\rdpwrap-master\res\
+	            	\\INN006SS\D$\Innovella\sys\Tools\RDP\rdpwrap-master\src-installer\
+	            	\\INN006SS\D$\Innovella\sys\Tools\RDP\rdpwrap-master\src-rdpcheck\
+	            	\\INN006SS\D$\Innovella\sys\Tools\RDP\rdpwrap-master\src-rdpconfig\
+	            	\\INN006SS\D$\Innovella\sys\Tools\RDP\rdpwrap-master\src-x86-binarymaster\
+	            	\\INN006SS\D$\Innovella\sys\Tools\RDP\rdpwrap-master\src-x86-x64-Fusix\
+	            	\\INN006SS\D$\Innovella\sys\Tools\RDP\RDPWrap-v1.6.1\
+
+------------------------------------------------------------------------------
+
+               Total    Copied   Skipped  Mismatch    FAILED    Extras
+    Dirs :        17         0        17         0         0         0
+   Files :        75         0        75         0         0         0
+   Bytes :   22.92 m         0   22.92 m         0         0         0
+   Times :   0:00:00   0:00:00                       0:00:00   0:00:00
+   Ended : Monday, December 7, 2020 10:28:02 PM
+
+
+-------------------------------------------------------------------------------
+   ROBOCOPY     ::     Robust File Copy for Windows                              
+-------------------------------------------------------------------------------
+
+  Started : Monday, December 7, 2020 10:28:02 PM
+   Source : \\INN006SS\D$\LocalDrive\
+     Dest : \\HQ1NAS01P01\Backups\INN006SS\DDRIVE\LocalDrive\
+
+    Files : *.*
+	    
+ Exc Dirs : \\INN006SS\D$\sshac\Music
+	    \\INN006SS\D$\sshac\OneDrive
+	    \\INN006SS\D$\sshac\Pictures
+	    \\INN006SS\D$\sshac\Videos
+	    
+  Options : *.* /FP /NS /TEE /S /E /DCOPY:T /COPY:DT /PURGE /MIR /Z /NP /R:1 /W:1 
+
+------------------------------------------------------------------------------
+
+	            	\\INN006SS\D$\LocalDrive\
+	            	\\INN006SS\D$\LocalDrive\Events\
+	            	\\INN006SS\D$\LocalDrive\Events\2019-11-02\
+	            	\\INN006SS\D$\LocalDrive\Events\2019-11-02\Photos\
+	            	\\INN006SS\D$\LocalDrive\Events\2019-12-05\
+	            	\\INN006SS\D$\LocalDrive\Events\2020 MBernoff\
+	            	\\INN006SS\D$\LocalDrive\Events\2020 OptimaTax\
+	            	\\INN006SS\D$\LocalDrive\Events\2020 PotatoStrong\
+	            	\\INN006SS\D$\LocalDrive\Events\2020-10-16 Dell R13\
+	            	\\INN006SS\D$\LocalDrive\Events\2020-10-16 Dell R13\pics\
+	            	\\INN006SS\D$\LocalDrive\Events\2020-10-29 RedCross\
+	            	\\INN006SS\D$\LocalDrive\Events\2020-11-04 SoS Filing\
+	            	\\INN006SS\D$\LocalDrive\Events\2020-11-08 DMV\
+	            	\\INN006SS\D$\LocalDrive\Events\2020-11-08 Insurance\
+	            	\\INN006SS\D$\LocalDrive\Events\2021-SuchAVoice\
+	            	\\INN006SS\D$\LocalDrive\Events\2021-SuchAVoice\2020-DEC-06 MasterClass\
+	            	\\INN006SS\D$\LocalDrive\Events\Retool\
+	            	\\INN006SS\D$\LocalDrive\JR\
+	            	\\INN006SS\D$\LocalDrive\JR\IG\
+	            	\\INN006SS\D$\LocalDrive\JR\IG\jillian_cdm\
+	            	\\INN006SS\D$\LocalDrive\JR\JillianIreneRamos\
+	            	\\INN006SS\D$\LocalDrive\JR\JillianIreneRamos\2018-OCT Jill\
+	            	\\INN006SS\D$\LocalDrive\JR\JillianIreneRamos\DrDeannaBrann\
+	            	\\INN006SS\D$\LocalDrive\JR\JillianIreneRamos\DrDeannaBrann\Index of __downloads__files\
+	            	\\INN006SS\D$\LocalDrive\Returns\
+	            	\\INN006SS\D$\LocalDrive\SuchAVoice\
+	            	\\INN006SS\D$\LocalDrive\SuchAVoice\Recordings\
+	            	\\INN006SS\D$\LocalDrive\SuchAVoice\Recordings\SessionData\
+	            	\\INN006SS\D$\LocalDrive\Xu, Yang\
+
+------------------------------------------------------------------------------
+
+               Total    Copied   Skipped  Mismatch    FAILED    Extras
+    Dirs :        29         0        29         0         0         0
+   Files :       401         0       401         0         0         0
+   Bytes :  391.16 m         0  391.16 m         0         0         0
+   Times :   0:00:00   0:00:00                       0:00:00   0:00:00
+   Ended : Monday, December 7, 2020 10:28:03 PM
+
+
+-------------------------------------------------------------------------------
+   ROBOCOPY     ::     Robust File Copy for Windows                              
+-------------------------------------------------------------------------------
+
+  Started : Monday, December 7, 2020 10:28:03 PM
+   Source : \\INN006SS\D$\Returns\
+     Dest : \\HQ1NAS01P01\Backups\INN006SS\DDRIVE\Returns\
+
+    Files : *.*
+	    
+ Exc Dirs : \\INN006SS\D$\sshac\Music
+	    \\INN006SS\D$\sshac\OneDrive
+	    \\INN006SS\D$\sshac\Pictures
+	    \\INN006SS\D$\sshac\Videos
+	    
+  Options : *.* /FP /NS /TEE /S /E /DCOPY:T /COPY:DT /PURGE /MIR /Z /NP /R:1 /W:1 
+
+------------------------------------------------------------------------------
+
+2020/12/07 22:28:03 ERROR 2 (0x00000002) Accessing Source Directory \\INN006SS\D$\Returns\
+The system cannot find the file specified.
+
+-------------------------------------------------------------------------------
+   ROBOCOPY     ::     Robust File Copy for Windows                              
+-------------------------------------------------------------------------------
+
+  Started : Monday, December 7, 2020 10:28:03 PM
+   Source : \\INN006SS\D$\Scans\
+     Dest : \\HQ1NAS01P01\Backups\INN006SS\DDRIVE\Scans\
+
+    Files : *.*
+	    
+ Exc Dirs : \\INN006SS\D$\sshac\Music
+	    \\INN006SS\D$\sshac\OneDrive
+	    \\INN006SS\D$\sshac\Pictures
+	    \\INN006SS\D$\sshac\Videos
+	    
+  Options : *.* /FP /NS /TEE /S /E /DCOPY:T /COPY:DT /PURGE /MIR /Z /NP /R:1 /W:1 
+
+------------------------------------------------------------------------------
+
+	            	\\INN006SS\D$\Scans\
+
+------------------------------------------------------------------------------
+
+               Total    Copied   Skipped  Mismatch    FAILED    Extras
+    Dirs :         1         0         1         0         0         0
+   Files :        18         0        18         0         0         0
+   Bytes :   21.59 m         0   21.59 m         0         0         0
+   Times :   0:00:00   0:00:00                       0:00:00   0:00:00
+   Ended : Monday, December 7, 2020 10:28:03 PM
+
+
+-------------------------------------------------------------------------------
+   ROBOCOPY     ::     Robust File Copy for Windows                              
+-------------------------------------------------------------------------------
+
+  Started : Monday, December 7, 2020 10:28:03 PM
+   Source : \\INN006SS\D$\Software\
+     Dest : \\HQ1NAS01P01\Backups\INN006SS\DDRIVE\Software\
+
+    Files : *.*
+	    
+ Exc Dirs : \\INN006SS\D$\sshac\Music
+	    \\INN006SS\D$\sshac\OneDrive
+	    \\INN006SS\D$\sshac\Pictures
+	    \\INN006SS\D$\sshac\Videos
+	    
+  Options : *.* /FP /NS /TEE /S /E /DCOPY:T /COPY:DT /PURGE /MIR /Z /NP /R:1 /W:1 
+
+------------------------------------------------------------------------------
+
+	            	\\INN006SS\D$\Software\
+	            	\\INN006SS\D$\Software\Dell\
+	            	\\INN006SS\D$\Software\EpsonScanner\
+
+------------------------------------------------------------------------------
+
+               Total    Copied   Skipped  Mismatch    FAILED    Extras
+    Dirs :         3         0         3         0         0         0
+   Files :         8         0         8         0         0         0
+   Bytes :  419.03 m         0  419.03 m         0         0         0
+   Times :   0:00:00   0:00:00                       0:00:00   0:00:00
+   Ended : Monday, December 7, 2020 10:28:03 PM
+
+
+-------------------------------------------------------------------------------
+   ROBOCOPY     ::     Robust File Copy for Windows                              
+-------------------------------------------------------------------------------
+
+  Started : Monday, December 7, 2020 10:28:03 PM
+   Source : \\INN006SS\D$\sshac\
+     Dest : \\HQ1NAS01P01\Backups\INN006SS\DDRIVE\sshac\
+
+    Files : *.*
+	    
+ Exc Dirs : \\INN006SS\D$\sshac\Music
+	    \\INN006SS\D$\sshac\OneDrive
+	    \\INN006SS\D$\sshac\Pictures
+	    \\INN006SS\D$\sshac\Videos
+	    
+  Options : *.* /FP /NS /TEE /S /E /DCOPY:T /COPY:DT /PURGE /MIR /Z /NP /R:1 /W:1 
+
+------------------------------------------------------------------------------
+
+	            	\\INN006SS\D$\sshac\
+	            	\\INN006SS\D$\sshac\Artifacts\
+	            	\\INN006SS\D$\sshac\Artifacts\Media\
+	            	\\INN006SS\D$\sshac\Artifacts\Media\YawCam\
+	  New Dir   	\\INN006SS\D$\sshac\Documents\
+	    New File  			\\INN006SS\D$\sshac\Documents\desktop.ini
+	    New File  			\\INN006SS\D$\sshac\Documents\nvidia.txt
+	    New File  			\\INN006SS\D$\sshac\Documents\sshacter_vault.old1
+	    New File  			\\INN006SS\D$\sshac\Documents\sshacter_vault.old2
+	    New File  			\\INN006SS\D$\sshac\Documents\sshacter_vault.old3
+	    New File  			\\INN006SS\D$\sshac\Documents\sshacter_vault.old4
+	    New File  			\\INN006SS\D$\sshac\Documents\sshacter_vault.old5
+	    New File  			\\INN006SS\D$\sshac\Documents\sshacter_vault.old6
+	    New File  			\\INN006SS\D$\sshac\Documents\sshacter_vault.pwa
+
+------------------------------------------------------------------------------
+
+               Total    Copied   Skipped  Mismatch    FAILED    Extras
+    Dirs :         9         1         8         0         0         0
+   Files :         9         9         0         0         0         0
+   Bytes :    3.27 m    3.27 m         0         0         0         0
+   Times :   0:00:00   0:00:00                       0:00:00   0:00:00
+
+
+   Speed :             6659428 Bytes/sec.
+   Speed :             381.055 MegaBytes/min.
+   Ended : Monday, December 7, 2020 10:28:04 PM
+
