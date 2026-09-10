@@ -16,10 +16,10 @@ REM /ZB: Uses restartable mode; if access is denied, it switches to backup mode.
 REM /R:3 and /W:5: Retries locked files 3 times, waiting 5 seconds between attempts.
 REM /XF *.gslides *.gdoc ...: Crucial Step. This tells Robocopy to completely skip the web shortcuts that cause the "Incorrect function" error.
 
-SET _log=/LOG:"\\%_local%\C$\LocalDrive\Logs\add.GoogleDrive-I.log.txt" /FP /NS /NP /TEE
-SET _logs=/LOG+:"\\%_local%\C$\LocalDrive\Logs\add.GoogleDrive-I.log.txt" /FP /NS /NP /TEE
+SET _log=/LOG:"\\%_local%\C$\LocalDrive\Logs\add.GoogleDrive-G.log.txt" /FP /NS /NP /TEE
+SET _logs=/LOG+:"\\%_local%\C$\LocalDrive\Logs\add.GoogleDrive-G.log.txt" /FP /NS /NP /TEE
 SET _exclude=/XD "%_source%\Apps" "%_source%\Backups" "%_source%\Dell"
-SET _exclude=/XF *.gsheet *.gslides *.gdoc *.gform *.gmap *.gsite
+rem SET _exclude=/XF *.gsheet *.gslides *.gdoc *.gform *.gmap *.gsite
 
 echo _local:	%_local%
 echo _source:	%_source%
@@ -29,22 +29,22 @@ echo _log:	%_log%
 echo _logs:	%_logs%
 echo _exclude:	%_exclude%
 
-:I-innovella.inc
+:G-gtcorporate.services
 SET _source=\\%_local%\C$\LocalDrive
 SET _dest=\\%_remote%\Backups\GoogleDrive
 
-SET _source="%_source%\innovella.inc"
+SET _source="%_source%\GTCS\GDrive"
 echo _source:	%_source%
-SET _dest=%_dest%\innovella.inc\MyDrive
+SET _dest=%_dest%\gtcorporate.services\MyDrive
 echo _dest:	%_dest%
 ROBOCOPY %_source% %_dest% %_what% %_logs% %_exclude%
 
 SET _source=\\%_local%\C$\LocalDrive
 SET _dest=\\%_remote%\Backups\GoogleDrive
 
-SET _source="I:\Other computers"
+SET _source="%_source%\GTCS\GDriveStream\Shared drives"
 echo _source:	%_source%
-SET _dest=%_dest%\innovella.inc\OtherComputers
+SET _dest=%_dest%\gtcorporate.services\SharedDrives
 echo _dest:	%_dest%
 ROBOCOPY %_source% %_dest% %_what% %_logs% %_exclude%
 
