@@ -1,0 +1,15 @@
+winget export -o "C:\LocalDrive\Repos\apps.json" --accept-source-agreements
+
+
+Useful Options & Variations
+• Include specific versions: By default, WinGet exports just the package names so that importing later pulls the latest updates. If you want to lock the exact versions currently installed, add the version flag:powershell
+winget export -o "C:\path\to\your\packages.json" --include-versions
+
+• Bypass license prompts: To auto-accept the source license agreement while exporting, use:powershell
+winget export -o "C:\path\to\your\packages.json" --accept-source-agreements
+
+How to Import Them Later
+When you set up a new PC or reinstall Windows, you can reinstall all of those applications at once by running:
+powershell
+
+winget import -i "C:\path\to\your\packages.json" --ignore-versions --accept-package-agreements --accept-source-agreements
